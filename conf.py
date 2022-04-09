@@ -106,7 +106,7 @@ myst_enable_extensions = [
 
 # OpenGraph config
 ogp_site_url = "https://www.bigga.de"
-ogp_image = "https://www.bigga.de/_static/alexander-bigga.png"
+ogp_image = "https://www.bigga.de/_static/bigga-alexander.jpg"
 
 # Temporarily stored as off until we fix it
 jupyter_execute_notebooks = "off"
