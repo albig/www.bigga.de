@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 419.88977 105.00676"
+   version="1.1"
+   id="svg_null"
+   sodipodi:docname="logo.svg"
+   width="419.88977"
+   height="105.00676"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:lockguides="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     lock-margins="false"
+     inkscape:zoom="1.27"
+     inkscape:cx="126.77165"
+     inkscape:cy="69.685039"
+     inkscape:window-width="1920"
+     inkscape:window-height="1015"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg_null" />
+  <g
+     id="g2230"
+     transform="translate(-40.110241,-182)"
+     inkscape:export-filename="/home/ab/projects/choldgraf.github.io/_static/logo.png"
+     inkscape:export-xdpi="41.15366"
+     inkscape:export-ydpi="41.15366">
+    <path
+       d="m 91.262001,190.21 c -2.329,0 -4.217,-1.838 -4.217,-4.105 0,-2.267 1.888,-4.105 4.217,-4.105 2.33,0 4.217,1.838 4.217,4.105 0,2.267 -1.888,4.105 -4.217,4.105 z m 21.690999,3.733 c -2.056,-1.094 -2.86,-3.603 -1.796,-5.605 1.065,-2.002 3.595,-2.738 5.651,-1.645 2.056,1.094 2.86,3.603 1.796,5.605 -1.064,2.002 -3.594,2.738 -5.65,1.645 z m 17.467,13.145 c -1.336,-1.908 -0.913,-4.508 0.944,-5.809 1.857,-1.3 4.446,-0.808 5.782,1.1 1.335,1.908 0.913,4.508 -0.945,5.809 -1.857,1.3 -4.445,0.808 -5.781,-1.1 z m -3.399,59.249 c 1.73,-1.558 4.364,-1.456 5.88,0.229 1.518,1.685 1.345,4.314 -0.386,5.872 -1.73,1.559 -4.364,1.456 -5.88,-0.229 -1.518,-1.685 -1.345,-4.314 0.386,-5.872 z m -18.794,11.161 c 2.26,-0.563 4.536,0.763 5.084,2.963 0.549,2.2 -0.838,4.44 -3.098,5.004 -2.26,0.563 -4.536,-0.763 -5.085,-2.963 -0.548,-2.2 0.839,-4.44 3.099,-5.004 z m -21.981999,1.413 c 2.26,0.563 3.647,2.803 3.099,5.003 -0.549,2.2 -2.825,3.527 -5.085,2.963 -2.26,-0.563 -3.647,-2.803 -3.099,-5.003 0.549,-2.2 2.825,-3.527 5.085,-2.963 z m -20.143,-8.66 c 1.731,1.557 1.904,4.187 0.387,5.872 -1.517,1.684 -4.15,1.787 -5.88,0.229 -1.731,-1.559 -1.904,-4.188 -0.387,-5.873 1.517,-1.685 4.15,-1.787 5.88,-0.229 z m -13.723,-16.822 c 0.835,2.174 -0.205,4.596 -2.321,5.408 -2.117,0.813 -4.51,-0.291 -5.344,-2.465 -0.835,-2.175 0.205,-4.596 2.321,-5.408 2.117,-0.813 4.51,0.291 5.344,2.465 z m -4.087,-21.021 c -0.284,2.312 -2.338,3.962 -4.589,3.685 -2.25,-0.276 -3.844,-2.374 -3.56,-4.686 0.284,-2.311 2.338,-3.961 4.588,-3.685 2.25,0.277 3.845,2.374 3.56,4.686 z m 6.43,-20.463 c -1.335,1.908 -3.924,2.4 -5.78,1.1 -1.858,-1.301 -2.28,-3.902 -0.945,-5.81 1.336,-1.907 3.924,-2.4 5.782,-1.1 1.857,1.301 2.28,3.902 0.944,5.81 z m 15.543,-15.26 c -2.056,1.093 -4.586,0.357 -5.65,-1.645 -1.065,-2.002 -0.26,-4.51 1.796,-5.604 2.056,-1.094 4.586,-0.357 5.65,1.645 1.065,2.002 0.26,4.51 -1.796,5.604 z"
+       id="shape.accent"
+       fill="#ffcc00"
+       style="fill-rule:evenodd;stroke:none;stroke-width:1" />
+    <path
+       d="m 92.139001,201.021 c -1.687,0 -3.055,-1.348 -3.055,-3.01 0,-1.663 1.368,-3.011 3.055,-3.011 1.687,0 3.055,1.348 3.055,3.01 0,1.663 -1.368,3.011 -3.055,3.011 z M 108.893,204.84 c -1.49,-0.792 -2.065,-2.625 -1.284,-4.093 0.78,-1.468 2.62,-2.016 4.11,-1.223 1.49,0.792 2.065,2.624 1.285,4.092 -0.781,1.468 -2.622,2.016 -4.111,1.224 z m 12.749,9.777 c -0.968,-1.382 -0.648,-3.276 0.714,-4.23 1.362,-0.953 3.25,-0.606 4.218,0.776 0.968,1.382 0.648,3.276 -0.714,4.23 -1.362,0.953 -3.25,0.606 -4.218,-0.776 z m -2.39,43.501 c 1.253,-1.129 3.172,-1.043 4.284,0.193 1.113,1.236 0.998,3.152 -0.256,4.281 -1.254,1.13 -3.172,1.043 -4.285,-0.192 -1.112,-1.236 -0.998,-3.153 0.256,-4.282 z m -14.194,7.564 c 1.637,-0.408 3.29,0.568 3.693,2.182 0.402,1.613 -0.599,3.252 -2.236,3.66 -1.637,0.408 -3.29,-0.569 -3.693,-2.182 -0.402,-1.613 0.6,-3.252 2.236,-3.66 z m -15.906999,1.035 c 1.637,0.409 2.638,2.047 2.236,3.66 -0.403,1.614 -2.056,2.59 -3.693,2.183 -1.637,-0.409 -2.638,-2.047 -2.236,-3.66 0.402,-1.614 2.055,-2.59 3.693,-2.183 z m -13.986,-5.73 c 1.254,1.13 1.368,3.047 0.256,4.282 -1.113,1.236 -3.031,1.322 -4.285,0.193 -1.254,-1.129 -1.368,-3.046 -0.256,-4.281 1.113,-1.236 3.031,-1.322 4.285,-0.193 z m -10.312,-12.685 c 0.604,1.575 -0.164,3.335 -1.716,3.931 -1.552,0.596 -3.3,-0.198 -3.905,-1.773 -0.605,-1.575 0.163,-3.335 1.715,-3.931 1.552,-0.596 3.3,0.198 3.906,1.773 z m -3.504,-15.947 c -0.206,1.674 -1.71,2.868 -3.36,2.665 -1.65,-0.203 -2.822,-1.724 -2.616,-3.4 0.205,-1.674 1.71,-2.867 3.36,-2.665 1.65,0.203 2.821,1.725 2.616,3.4 z m 5.51,-14.177 c -0.967,1.383 -2.856,1.73 -4.218,0.776 -1.362,-0.953 -1.681,-2.847 -0.714,-4.23 0.968,-1.381 2.857,-1.729 4.219,-0.775 1.362,0.954 1.681,2.847 0.714,4.23 z m 11.14,-11.327 c -1.489,0.792 -3.33,0.244 -4.11,-1.224 -0.78,-1.468 -0.206,-3.3 1.284,-4.092 1.49,-0.792 3.33,-0.244 4.11,1.224 0.781,1.468 0.207,3.3 -1.283,4.092 z"
+       id="shape.secondary"
+       fill-opacity="0.8"
+       fill="#203e5f"
+       style="fill:#20451f;fill-opacity:0.8;fill-rule:evenodd;stroke:none;stroke-width:1" />
+    <g
+       id="Group"
+       transform="translate(140,206)"
+       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1">
+      <rect
+         id="Rectangle-71"
+         x="0"
+         y="0"
+         width="320"
+         height="70" />
+      <text
+         id="headerText.primary"
+         font-family="Cousine"
+         font-size="58.2054px"
+         font-weight="700"
+         line-spacing="70"
+         letter-spacing="4.98904"
+         fill="#1a2634"
+         data-text-alignment="L"
+         font-style="normal"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.2054px;font-family:'Noto Sans Bhaiksuki';-inkscape-font-specification:'Noto Sans Bhaiksuki, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:4.98904;fill:#1a451f;fill-opacity:1"><tspan
+           x="0"
+           y="50.5"
+           id="tspan6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.2054px;font-family:'Noto Sans Bhaiksuki';-inkscape-font-specification:'Noto Sans Bhaiksuki, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1a451f;fill-opacity:1">bigga.de</tspan></text>
+    </g>
+  </g>
+</svg>
