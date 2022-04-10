@@ -5,17 +5,18 @@ html_meta:
 ---
 # Impressum
 
+:::{hint}
 Dies ist eine privater Webseite von Alexander Bigga.
 
 
 
-Alexander Bigga
-Bonhoefferplatz 23
+Alexander Bigga<br />
+Bonhoefferplatz 23<br />
 D-01159 Dresden
 
-Telefon +49 178 14 22 460
+Telefon +49 178 14 22 460<br />
 Email: alexander@bigga.de
-
+:::
 
 ```{toctree}
 :maxdepth: 1
