@@ -19,6 +19,7 @@ import os
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 
+# import locale
 
 # -- Project information -----------------------------------------------------
 
@@ -27,6 +28,12 @@ copyright = '2022, Alexander Bigga'
 author = 'Alexander Bigga'
 
 language = 'de'
+
+# if language == 'de':
+#     locale.setlocale(locale.LC_ALL, 'de_DE.UTF-8')
+# else:
+#     locale.setlocale(locale.LC_ALL, 'en_US.UTF_8')
+
 # -- General configuration ---------------------------------------------------
 
 # Add any Sphinx extension module names here, as strings. They can be
@@ -90,7 +97,12 @@ blog_baseurl = "https://www.bigga.de/blog"
 blog_title = "Alexander Bigga - Blog"
 blog_path = "blog"
 fontawesome_included = True
-blog_post_pattern = "posts/*/*"
+blog_post_pattern = "posts/*/*/*/*"
+blog_languages = {
+    'de': ('Deutsch', None),
+    'en': ('English', None),
+}
+blog_default_language = "de"
 post_redirect_refresh = 1
 post_auto_image = 1
 post_auto_excerpt = 2
