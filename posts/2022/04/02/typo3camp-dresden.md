@@ -7,7 +7,9 @@ category: software
 
 # TYPO3Camp Mitteldeutschland in Dresden
 
-Vom Do, 31.03.2022 bis Sa, 02.04.2022 war das 4. TYPO3Camp Mitteldeutschland in Dresden. Am Freitag und Samstag war ich dabei und habe mir allerlei Sessions angehört. Hier ein paar Notizen von Themen, die für mich interessant / neu waren.
+om Do, 31.03.2022 bis Sa, 02.04.2022 war das [4. TYPO3Camp Mitteldeutschland](https://typo3camp-mitteldeutschland.de/) in Dresden. Am Freitag und Samstag war ich dabei und habe mir allerlei Sessions angehört. Hier ein paar Notizen von Themen, die für mich interessant / neu waren.
+
+Eine offizielle Nachlese ist auch verfügbar: https://typo3camp-mitteldeutschland.de/nachlese
 
 ## codeception PHP Testing
 
@@ -139,9 +141,9 @@ Fazit: Sollte man sich mal anschauen. Eventuell kann man sich bestimmte Konzepte
 
 ## Code linting, cleanup.
 
-Eine ausführliche Session zu den verschiedenen Möglichkeiten mit Code-Lintern in der Extension-Entwicklung zu arbeiten. [Thomas Kieslich](https://www.thomaskieslich.de/) von Davitec will sein Setup bei Gelegenheit auch veröffentlichen.
+Eine ausführliche Session zu den verschiedenen Möglichkeiten mit Code-Lintern in der Extension-Entwicklung zu arbeiten. [Thomas Kieslich](https://www.thomaskieslich.de/) von Davitec hat sein Setup auf Gitlab veröffentlicht: https://gitlab.com/thomaskieslich/t3cmd22
 
-Inspirit hat er sich u.a. in Oliver Klees[tea-Extension](https://github.com/oliverklee/ext-tea).
+Inspirit hat er sich u.a. in Oliver Klees [tea-Extension](https://github.com/oliverklee/ext-tea).
 
 ```
 require-dev {
