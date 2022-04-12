@@ -19,20 +19,15 @@ import os
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 
-# import locale
 
 # -- Project information -----------------------------------------------------
 
 project = 'www.bigga.de'
+html_title = 'www.bigga.de'
 copyright = '2022, Alexander Bigga'
 author = 'Alexander Bigga'
 
 language = 'de'
-
-# if language == 'de':
-#     locale.setlocale(locale.LC_ALL, 'de_DE.UTF-8')
-# else:
-#     locale.setlocale(locale.LC_ALL, 'en_US.UTF_8')
 
 # -- General configuration ---------------------------------------------------
 
@@ -101,6 +96,7 @@ blog_post_pattern = "posts/*/*/*/*"
 blog_languages = {
     'de': ('Deutsch', None),
     'en': ('English', None),
+    'fr': ('Francais', None),
 }
 blog_default_language = "de"
 post_redirect_refresh = 1
