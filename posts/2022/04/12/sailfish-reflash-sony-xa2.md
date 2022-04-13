@@ -24,6 +24,8 @@ Letzteres machte bei mir Ärger seit SailFish 4.3.0 bei der Nutzung von OsmAnd. 
 
 Heute habe ich mich durchgerungen, das Handy erstmals neu zu flashen. Und zwar mit der Version 4.4.0, die seit ein paar Wochen released ist.
 
+Eine offizielle Anleitung gibt es hier: https://jolla.zendesk.com/hc/en-us/articles/360002304714-Reinstalling-Sailfish-X
+
 An sich ist das unter Linux kein Problem. Ich habe das ja schon ab und zu gemacht. Aber dieses Mal war mein kleiner Intel NUC doch etwas zickig unter Manjaro Linux mit Kernel 5.15.28. Oder sagen wir mal so, der USB-Port. Das sieht dann folgendermaßen aus:
 
 So:
@@ -75,4 +77,57 @@ lspci
 00:1f.4 SMBus: Intel Corporation Sunrise Point-LP SMBus (rev 21)
 00:1f.6 Ethernet controller: Intel Corporation Ethernet Connection I219-V (rev 21)
 01:00.0 Network controller: Intel Corporation Wireless 8260 (rev 3a)
+```
+
+Auf dem Thinkpad (ebenfalls mit Manjaro und Kernel 5.15.28) lief das Flashen fehlerfrei durch. Nach dem `fimage.img001` war ich schon etwas ungeduldig. Aber es kommt dann noch das größere `vendor.img001` und vor allem die Sony Firmware `SW_binaries_for_Xperia_Android_8.1.6.4_r1_v16_nile.img`. Also Geduld!
+
+```bash
+bash ./flash.sh
+Flash utility v1.2
+Detected Linux
+Searching device to flash..
+Found H3113, serial:CQ3000UJH8, baseband:1311-2845_50.2.A.3.77, bootloader:1310-0301_X_Boot_SDM630_LA3.0_P_38
+Found matching device with serial CQ3000UJH8
+Fastboot command: fastboot -s CQ3000UJH8
+>> fastboot -s CQ3000UJH8 getvar secure
+<< secure: no
+>> fastboot -s CQ3000UJH8 flash:raw boot_a hybris-boot.img
+Sending 'boot_a' (18676 KB)                        OKAY [  0.635s]
+Writing 'boot_a'                                   OKAY [  0.646s]
+Finished. Total time: 1.308s
+>> fastboot -s CQ3000UJH8 flash:raw boot_b hybris-boot.img
+Sending 'boot_b' (18676 KB)                        OKAY [  0.706s]
+Writing 'boot_b'                                   OKAY [  0.512s]
+Finished. Total time: 1.256s
+>> fastboot -s CQ3000UJH8 flash userdata sailfish.img001
+Sending sparse 'userdata' 1/3 (522254 KB)          OKAY [ 19.129s]
+Writing 'userdata'                                 OKAY [  0.000s]
+Sending sparse 'userdata' 2/3 (524285 KB)          OKAY [ 37.562s]
+Writing 'userdata'                                 OKAY [  0.000s]
+Sending sparse 'userdata' 3/3 (445293 KB)          OKAY [ 71.163s]
+Writing 'userdata'                                 OKAY [  0.000s]
+Finished. Total time: 127.890s
+>> fastboot -s CQ3000UJH8 flash system_b fimage.img001
+
+Sending sparse 'system_b' 1/2 (524284 KB)          OKAY [ 16.745s]
+Writing 'system_b'                                 OKAY [  0.002s]
+Sending sparse 'system_b' 2/2 (129412 KB)          OKAY [ 77.559s]
+Writing 'system_b'                                 OKAY [  0.000s]
+Finished. Total time: 306.699s
+>> fastboot -s CQ3000UJH8 flash vendor_a vendor.img001
+Sending 'vendor_a' (316 KB)                        OKAY [  0.014s]
+Writing 'vendor_a'                                 OKAY [  0.000s]
+Finished. Total time: 31.690s
+>> fastboot -s CQ3000UJH8 flash vendor_b vendor.img001
+Sending 'vendor_b' (316 KB)                        OKAY [  0.014s]
+Writing 'vendor_b'                                 OKAY [  0.000s]
+Finished. Total time: 247.766s
+>> fastboot -s CQ3000UJH8 flash oem_a ./SW_binaries_for_Xperia_Android_8.1.6.4_r1_v16_nile.img
+Sending 'oem_a' (211516 KB)                        OKAY [  7.643s]
+Writing 'oem_a'                                    OKAY [  7.754s]
+Finished. Total time: 169.998s
+
+Flashing completed.
+
+Remove the USB cable and bootup the device by pressing powerkey.
 ```
