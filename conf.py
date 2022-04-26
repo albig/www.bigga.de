@@ -61,6 +61,15 @@ html_theme = 'pydata_sphinx_theme'
 html_theme_options = {
   "github_url": "https://github.com/albig/",
   "twitter_url": "https://twitter.com/albigdd",
+  "mastodon_url": "https://gruene.social/@albigdd",
+  "icon_links": [
+    {
+        "name": "Mastodon",
+        "url": "https://gruene.social/@albigdd",
+        "icon": "fab fa-mastodon",
+    },
+  ],
+    "use_edit_page_button": True,
   "search_bar_text": "Seite durchsuchen...",
   "google_analytics_id": "",
   "navbar_end": ["search-field.html", "navbar-icon-links"],
@@ -88,6 +97,14 @@ html_sidebars = {
     "blog/**": ['postcard.html', 'recentposts.html', 'archives.html'],
     "impressum/**": ["hello.html", "sidebar-nav-bs.html"]
 }
+
+html_context = {
+    "github_user": "albig",
+    "github_repo": "www.bigga.de",
+    "github_version": "main",
+    "doc_path": "",
+}
+
 blog_baseurl = "https://www.bigga.de/blog"
 blog_title = "Alexander Bigga - Blog"
 blog_path = "blog"
