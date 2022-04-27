@@ -92,6 +92,7 @@ html_extra_path = ['_static/robots.txt']
 html_sidebars = {
     "index": ["hello.html", "sidebar-nav-bs.html"],
     "about": ["hello.html", "sidebar-nav-bs.html"],
+    "posts/**": ['postcard.html', 'recentposts.html', 'archives.html'],
     "blog": ['tagcloud.html', 'archives.html'],
     "blog/**": ['postcard.html', 'recentposts.html', 'archives.html'],
     "impressum/**": ["hello.html", "sidebar-nav-bs.html"]
