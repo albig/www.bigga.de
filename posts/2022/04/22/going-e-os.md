@@ -1,5 +1,5 @@
 ---
-tags: linux, jolla, sailfish. eos
+tags: linux, jolla, sailfish, eos
 date: 2022-04-22
 language: de
 category: software
