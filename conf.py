@@ -61,7 +61,6 @@ html_theme = 'pydata_sphinx_theme'
 html_theme_options = {
   "github_url": "https://github.com/albig/",
   "twitter_url": "https://twitter.com/albigdd",
-  "mastodon_url": "https://gruene.social/@albigdd",
   "icon_links": [
     {
         "name": "Mastodon",
