@@ -66,6 +66,10 @@ html_theme_options = {
         "name": "Mastodon",
         "url": "https://gruene.social/@albigdd",
         "icon": "fab fa-mastodon",
+        "additionalAttributes": {
+            "target" : "_blank",
+            "rel" : "noopener me",
+        }
     },
   ],
     "use_edit_page_button": True,

@@ -19,6 +19,7 @@ Lesen Sie mehr im Blog.
 :maxdepth: 2
 :hidden:
 :glob:
+about
 blog
 impressum/index
 ```
