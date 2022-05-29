@@ -91,8 +91,10 @@ Aufgaben sind sowohl Administration als auch Projektmanagement.
 ---
 :column: +entry right
 
-**2017-2021** Referatsleiter "Digitale Präsentation" an der [SLUB Dresden](https://www.slub-dresden.de)
+**2016-2021** Referatsleiter "Digitale Präsentation" an der [SLUB Dresden](https://www.slub-dresden.de)
 ^^^
+
+Seit 15.05.2016 war ich Referatsleiter des Referat "Digitale Bibliothek". Dieses Referat wurde 2020 aufgeteilt und ich habe den Teil "Digitale Präsentation" bis Ende 2021 geleitet. Anfang 2022 habe ich meine Stunden reduziert und meine Aufgaben übergeben um parallel bei der verdigado eG einzusteigen. Zum 30.06.2022 endet meine Beschäftigung bei der SLUB Dresden nach fast 11 Jahren.
 
 ---
 :column: +entry left
