@@ -19,3 +19,13 @@ Jetzt kann ich mich auf meinen neuen Job konzentrieren, den ich ja schon seit Ja
 Und das geht ganz prima im Homeoffice, wie ich ja während der Corona-Pandemie gelernt habe.
 
 Ich freue mich auf den weiteren Weg.
+
+```{figure} img_20220703_104033_conv.jpg
+:alt: Urkunde vom Fonds StadtGrün der Landeshauptstadt Dresden mit einer Grußkarte der SLUB Kolleg:innen.
+:name: sdfasdf
+:class: with-shadow
+:width: 300px
+:align: left
+
+Abschiedsgeschenk der SLUB IT Kolleg:innen. Ein Baum über den [Fonds Stadtgrün](https://dresden.de/fonds-stadtgruen) der Landeshauptstadt Dresden im Südpark.
+```
