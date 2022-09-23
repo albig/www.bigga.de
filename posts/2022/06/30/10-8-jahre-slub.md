@@ -22,7 +22,6 @@ Ich freue mich auf den weiteren Weg.
 
 ```{figure} img_20220703_104033_conv.jpg
 :alt: Urkunde vom Fonds StadtGrün der Landeshauptstadt Dresden mit einer Grußkarte der SLUB Kolleg:innen.
-:name: sdfasdf
 :class: with-shadow
 :width: 300px
 :align: left

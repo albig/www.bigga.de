@@ -131,7 +131,7 @@ Ein paar Apps, die ich aktuell gerne nutze
 
 | App | Sailfish OS (Android 10)| /e/OS (Android 11) | Store |
 |-----|----------|---------|-------|
-| [Omand](https://f-droid.org/de/packages/net.osmand.plus/)    |     X     |    X     |   F-Droid    |
+| [Osmand](https://f-droid.org/de/packages/net.osmand.plus/)    |     X     |    X     |   F-Droid    |
 | [Streetcomplete](https://f-droid.org/de/packages/de.westnordost.streetcomplete/)    |     X     |    X     |   F-Droid    |
 | [Piepmatz](http://werkwolf.com/piepmatz.html)    |     X     |    -     |   Jolla Store / Openrepos    |
 | [Vespucci](https://f-droid.org/de/packages/de.blau.android/)    |     -     |    X     |   F-Droid    |
