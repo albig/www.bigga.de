@@ -79,7 +79,7 @@ Ich habe tatkräftig mitgeholfen, das Netzwerk und den späteren Verein "Willkom
 2022: **Eintritt bei [verdigado eG](https://www.verdigado.com)**
 ^^^
 
-Seit Januar 2022 arbeite ich zunächst in Teilzeit für die junge IT-Genossenschaft verdigado eG. Ab Juli ist das dann mein Hauptjob.
+Seit Januar 2022 arbeite ich zunächst in Teilzeit für die junge IT-Genossenschaft verdigado eG. Ab Juli ist das dann mein Hauptjob mit 80% (32 Stunden pro Woche).
 
 Aufgaben sind sowohl Administration als auch Projektmanagement.
 

@@ -66,7 +66,7 @@ html_theme_options = {
         "name": "Mastodon",
         "url": "https://gruene.social/@albigdd",
         "icon": "fab fa-mastodon",
-        "additionalAttributes": {
+        "attributes": {
             "target" : "_blank",
             "rel" : "noopener me",
         }
