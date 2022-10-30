@@ -65,17 +65,17 @@ html_theme_options = {
     {
         "name": "Mastodon",
         "url": "https://gruene.social/@albigdd",
-        "icon": "fab fa-mastodon",
+        "icon": "fa-brands fa-mastodon",
         "attributes": {
             "target" : "_blank",
             "rel" : "noopener me",
         }
     },
   ],
-    "use_edit_page_button": True,
+  "use_edit_page_button": True,
   "search_bar_text": "Seite durchsuchen...",
   "google_analytics_id": "",
-  "navbar_end": ["search-field.html", "navbar-icon-links"],
+  "navbar_end": ["navbar-icon-links.html"],
   "show_toc_level": 2,
   "show_nav_level": 2,
   "footer_items": ["copyright", "sphinx-version", "datenschutz"]
@@ -96,9 +96,9 @@ html_extra_path = ['_static/robots.txt']
 html_sidebars = {
     "index": ["hello.html", "sidebar-nav-bs.html"],
     "about": ["hello.html", "sidebar-nav-bs.html"],
-    "posts/**": ['postcard.html', 'recentposts.html', 'archives.html'],
-    "blog": ['tagcloud.html', 'archives.html'],
-    "blog/**": ['postcard.html', 'recentposts.html', 'archives.html'],
+    "posts/**": ["search-field.html", "postcard.html", "recentposts.html", "archives.html"],
+    "blog": ["tagcloud.html", "archives.html"],
+    "blog/**": ["postcard.html", "recentposts.html", "archives.html"],
     "impressum/**": ["hello.html", "sidebar-nav-bs.html"]
 }
 
