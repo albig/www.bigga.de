@@ -107,7 +107,7 @@ html_context = {
     "doc_path": "",
 }
 
-blog_baseurl = "https://www.bigga.de/blog"
+blog_baseurl = "https://www.bigga.de"
 blog_title = "Alexander Bigga - Blog"
 blog_path = "blog"
 fontawesome_included = True
@@ -143,7 +143,7 @@ jupyter_execute_notebooks = "off"
 
 extensions += ["sphinx_sitemap"]
 
-html_baseurl = os.environ.get("SITEMAP_URL_BASE", "http://127.0.0.1:8008/")
+html_baseurl = 'https://www.bigga.de/'
 sitemap_locales = [None]
 sitemap_url_scheme = "{link}"
 
