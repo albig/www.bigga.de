@@ -114,12 +114,12 @@ div.timeline div.entry.right::after {
 
 
 /* Make each footer item in-line so they stack horizontally instead of vertically */
-.footer-item {
+._footer-item {
   display: inline-block;
 }
 
 /* Add a separating border line for all but the last item */
-.footer-item:not(:last-child) {
+._footer-item:not(:last-child) {
   border-right: 1px solid var(--pst-color-text-base);
   margin-right: .5em;
   padding-right: .5em;
@@ -128,3 +128,7 @@ div.timeline div.entry.right::after {
 #navbar-icon-links i.fa-mastodon:before {
         color: #0052cc;
 }
+
+.footer-items__start, .footer-items__end {
+    flex-direction: row;
+  }

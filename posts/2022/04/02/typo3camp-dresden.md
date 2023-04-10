@@ -9,19 +9,19 @@ category: software
 
 om Do, 31.03.2022 bis Sa, 02.04.2022 war das [4. TYPO3Camp Mitteldeutschland](https://typo3camp-mitteldeutschland.de/) in Dresden. Am Freitag und Samstag war ich dabei und habe mir allerlei Sessions angehört. Hier ein paar Notizen von Themen, die für mich interessant / neu waren.
 
-Eine offizielle Nachlese ist auch verfügbar: https://typo3camp-mitteldeutschland.de/nachlese
+Eine offizielle Nachlese ist auch verfügbar: [https://typo3camp-mitteldeutschland.de/nachlese](https://typo3camp-mitteldeutschland.de/nachlese)
 
 ## codeception PHP Testing
 
 Davon habe ich bisher keine Ahnung und ich habe auch nicht an der Session teilgenommen. Am Ende war es die beliebteste Session des Camps.
 
-https://docs.typo3.org/m/typo3/reference-coreapi/main/en-us/Testing/WritingAcceptance.html
+[https://docs.typo3.org/m/typo3/reference-coreapi/main/en-us/Testing/WritingAcceptance.html](https://docs.typo3.org/m/typo3/reference-coreapi/main/en-us/Testing/WritingAcceptance.html)
 
 ## XIMA Synchronisation als Entwicklungstool
 
 Konrad Michalik von XIMA hat vorgestellt, was er in den letzten zwei Jahren entwickelt hat um die Datenbanken auf Live, Staging und lokalem Entwicklungssystem abgleichen zu können.
 
-Herausgekommen ist das Tool db-sync-tool: https://github.com/jackd248/db-sync-tool
+Herausgekommen ist das Tool db-sync-tool: [https://github.com/jackd248/db-sync-tool](https://github.com/jackd248/db-sync-tool)
 
 * reine Datenbanksynchronisation
 * Anforderung war eine systemunabhängige Unterstütztung für TYPO3, Drupal und Symfonie-Projekte
@@ -35,7 +35,7 @@ Um Dateien zu synchronisieren, nutzt man file-sync-tool was aber nur Wrapper fü
 
 Um lokal fehlende Dateien nachzuladen, wird die Extension [File Fill (`ichhabrecht/filefill`)](https://extensions.typo3.org/extension/filefill) genutzt.
 
-Tipp: PHP Deployer, https://deployer.org/
+Tipp: PHP Deployer, [https://deployer.org/](https://deployer.org/)
 
 
 ## Dokumentation
@@ -75,7 +75,7 @@ Die Frage kam auf, ob es mit Matomo möglich ist, Cookieless zu Tracken. Daraus 
 * in Matomo gibt es ein Extra-Menü "DSGVO-Übersicht"
 * es lassen sich Cookies pro host aber auch global abstellen. Im letzteren Fall wird das matomo.js entsprechend serverseitig angepasst.
 
-Eine junge Alternative ist https://plausible.io/
+Eine junge Alternative ist [https://plausible.io/](https://plausible.io/)
 
 Von Daniel Siepmann gibt es eine [Proofe-of-Concept Tracking-Extension](https://daniel-siepmann.de/projects/typo3-extension-tracking.html), die die Nutzung von Middleware und eine Dashboard-Einbdingung demonstrieren soll. Für einfache Tracking-Aufgaben eventuell ausreichend.
 

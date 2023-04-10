@@ -1,5 +1,5 @@
 ---
-tags: mp3, ogg,
+tags: mp3, ogg
 date: 2022-05-04
 language: de
 category: technik

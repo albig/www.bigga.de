@@ -24,7 +24,7 @@ import os
 
 project = 'www.bigga.de'
 html_title = 'www.bigga.de'
-copyright = '2022, Alexander Bigga'
+copyright = '2023, Alexander Bigga'
 author = 'Alexander Bigga'
 
 language = 'de'
@@ -60,7 +60,6 @@ html_theme = 'pydata_sphinx_theme'
 
 html_theme_options = {
   "github_url": "https://github.com/albig/",
-  "twitter_url": "https://twitter.com/albigdd",
   "icon_links": [
     {
         "name": "Mastodon",
@@ -74,11 +73,11 @@ html_theme_options = {
   ],
   "use_edit_page_button": True,
   "search_bar_text": "Seite durchsuchen...",
-  "google_analytics_id": "",
   "navbar_end": ["navbar-icon-links.html"],
   "show_toc_level": 2,
   "show_nav_level": 2,
-  "footer_items": ["copyright", "sphinx-version", "datenschutz"]
+  "footer_start": ["copyright", "sphinx-version"],
+  "footer_end": ["impressum", "datenschutz"]
 }
 
 html_favicon = "_static/favicon.ico"
@@ -99,7 +98,6 @@ html_sidebars = {
     "posts/**": ["search-field.html", "postcard.html", "recentposts.html", "archives.html"],
     "blog": ["tagcloud.html", "archives.html"],
     "blog/**": ["postcard.html", "recentposts.html", "archives.html"],
-    "impressum/**": ["hello.html", "sidebar-nav-bs.html"]
 }
 
 html_context = {
@@ -117,7 +115,6 @@ blog_post_pattern = "posts/*/*/*/*"
 blog_languages = {
     'de': ('Deutsch', None),
     'en': ('English', None),
-    'fr': ('Francais', None),
 }
 blog_default_language = "de"
 post_redirect_refresh = 1
