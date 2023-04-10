@@ -107,7 +107,7 @@ html_context = {
     "doc_path": "",
 }
 
-blog_baseurl = "https://www.bigga.de"
+blog_baseurl = "https://www.bigga.de/"
 blog_title = "Alexander Bigga - Blog"
 blog_path = "blog"
 fontawesome_included = True
