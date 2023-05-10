@@ -65,6 +65,7 @@ var chart = c3.generate({
 
 # Happy 10.000 km Tout Terrain!
 
+## Tout Terrain seit 2019
 Am 23.04.2023 hat mein [Tout-Terrain](https://tout-terrain.de/) Fahrrad seinen 10.000 km geschafft. Und es läuft wie am ersten Tag.
 
 ```{figure} tout-terrain-2023.jpg
@@ -92,4 +93,10 @@ Die Daten aus dem Chart sind manuell erfasst. Jeden Tag notiere ich mir die Gesa
 Am Ende habe ich dann eine [einfache CSV-Datei](/_static/Rad2023.csv). Die wird auf der Webseite mit [D3.js](https://d3js.org/) und [C3.js](https://c3js.org/) visualisiert. Kann man bestimmt schöner machen, aber so ging es relativ schnell.
 :::
 
-## noch was
+## Vorgänger
+
+Das Tout Terrain hat in Summe ca. 3400 € gekostet. Dabei habe ich die Rohloff-Narbe (von 2010), den Brooks-Sattel (von 2004) und die Mäntel übernommen. Bei letzteren wurde mir empfohlen, sie bald mal zu tauschen. Na, jetzt nach weiteren 10.000km werde ich das im Herbst/Winter auch mal tun. Komplett hätte es also ca. 4500 € gekostet.
+
+Der Vorgänger Rotor Komet hatte in der Anschaffung 2004 knapp 2000 € gekostet und hat gut 15 Jahre gehalten.
+
+Davor bin ich ein einfaches Winora mit 5-Gang-Nabenschaltung gefahren von ca. 1993 bis 2004 - also 11 Jahre. Neupreis ca. 800 DM.
