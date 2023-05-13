@@ -13,7 +13,7 @@ Ich denke, in Zukunft werde ich öfter kommen. Für den symbolischen Eintrittspr
 
 ## Besuchte Vorträge
 
-Im folgenden meine Notizen zu den Sessions, die ich besucht habe. So hatte ich es ja auch mit dem [TYPO3 Camp Mitteldeutschland 2022](https://www.bigga.de/posts/2022/04/02/typo3camp-dresden/) gehalten.
+Im folgenden meine Notizen zu den Sessions, die ich besucht habe. So hatte ich es ja auch mit dem [TYPO3 Camp Mitteldeutschland 2022](/posts/2022/04/02/typo3camp-dresden/) gehalten.
 
 Die Vorträge sind alle (?) im Stream nachschaubar unter folgender Adresse aufgelistet: [https://streaming.media.ccc.de/clt23/relive
 ](https://streaming.media.ccc.de/clt23/relive).
