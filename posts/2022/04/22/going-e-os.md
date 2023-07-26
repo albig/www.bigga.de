@@ -13,7 +13,7 @@ Seit dem Release 4.3.0 hatte ich dann plötzlich Probleme mit Osmand und anderen
 
 Mit dem Release 4.4.0 wurde es nicht besser und so richtig scheint das Problem außer mir keiner zu haben. Also ist das Handy hinüber? Oder hat es was damit zu tun, dass ich damit von Android 8 auf Sailfish umgestiegen bin? Es ist mir bis heute unklar, was die originale Android-Version für Auswirkungen hat.
 
-Vor [10 Tagen hab ich das Handy komplett neu mit Sailfish OS 4.4 geflasht](http://www.bigga.de/posts/2022/04/12/sailfish-reflash-sony-xa2/). Aber das Verhalten hat sich gar nicht verbessert.
+Vor [10 Tagen hab ich das Handy komplett neu mit Sailfish OS 4.4 geflasht](https://www.bigga.de/posts/2022/04/12/sailfish-reflash-sony-xa2/). Aber das Verhalten hat sich gar nicht verbessert.
 
 Gestern habe ich dann mehrere Versuche gemacht und zunächst die Original Sony Android Version drauf gespielt und später an /e/ OS.
 
