@@ -3,9 +3,7 @@ docutils==0.16
 MyST-Parser
 pydata-sphinx-theme
 sphinx
-sphinx-panels
 sphinxext-opengraph
 sphinxext-rediraffe
 sphinx-autobuild
 sphinx-sitemap
-
