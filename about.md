@@ -8,7 +8,7 @@ Die Domain bigga.de hatte ich schon während meines Praktikums am CERN 1999/2000
 
 Seit 2022 ist [www.bigga.de](https://www.bigga.de) wieder da. Technisch kommt nun Sphinx zum Einsatz mit dem [pydata sphinx theme](https://pydata-sphinx-theme.readthedocs.io/) und [ablog](https://ablog.readthedocs.io/) für den Blog.
 
-Das Setup wurde der Seite von [Chris Holdgraf](https://predictablynoisy.com/) nachempfunden. _Thank you for your work which inspired me, to do something similar_.
+Das Setup wurde der Seite von [Chris Holdgraf](https://chrisholdgraf.com/) nachempfunden. _Thank you for your work which inspired me, to do something similar_.
 
 ## Meine Interessen
 
