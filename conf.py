@@ -37,6 +37,7 @@ language = 'de'
 extensions = [
     "myst_parser",
     "ablog",
+    "sphinx_design",
     "sphinxext.opengraph",
     "sphinxext.rediraffe",
 ]
