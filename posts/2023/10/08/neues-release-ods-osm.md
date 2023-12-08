@@ -1,5 +1,5 @@
 ---
-tags: typo3, osm, open source
+tags: typo3, osm, opensource
 date: 2023-10-08
 language: de
 category: typo3
