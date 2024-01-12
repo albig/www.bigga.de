@@ -16,9 +16,9 @@ Ein Weg von vielen, könnte der Zugriff über `sshfs` sein. Also das lokale moun
 ## Inotify-Tools
 Noch einfacher ist es mit den inotify-tools. Damit lässt sich das aktuelle Projektverzeichnis sehr simple bei jeder Änderung synchronsisieren.
 
-GitHub-Repo: https://github.com/rvoicilas/inotify-tools
+GitHub-Repo: [https://github.com/rvoicilas/inotify-tools](https://github.com/rvoicilas/inotify-tools)
 
-Bei Manjaro und Arch heißt das Paket: `inotify-tools`
+Bei Manjaro, Arch und Linux Mint heißt das Paket: `inotify-tools`
 
 Einfaches Skript um die Daten des lokalen Verzeichnisses auf ein Zielverzeichnis zu syncronisieren. Das ganze geschieht rekursiv.
 
