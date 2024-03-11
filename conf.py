@@ -24,7 +24,7 @@ import os
 
 project = 'www.bigga.de'
 html_title = 'www.bigga.de'
-copyright = '2023, Alexander Bigga'
+copyright = '2024, Alexander Bigga'
 author = 'Alexander Bigga'
 
 language = 'de'
