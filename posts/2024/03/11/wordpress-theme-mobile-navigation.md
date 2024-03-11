@@ -7,7 +7,7 @@ category: wordpress, software
 
 # WordPress-Allerlei für den Löbtop e.V.
 
-Letztes Jahr hatte ich der neuen [Webseite des Löbtop e.V.s](https://loebtop.de) auf die Welt geholfen. In ein paar Tagen [jährt sich der Reaunch](https://loebtop.de/2023/03/22/gemeinsamer-internetauftritt/) und jetzt komme ich endlich dazu, ein paar Details zu korrigieren, die mich schon lange stören.
+Letztes Jahr hatte ich der neuen [Webseite des Löbtop e.V.s](https://loebtop.de) auf die Welt geholfen. In ein paar Tagen [jährt sich der Relaunch](https://loebtop.de/2023/03/22/gemeinsamer-internetauftritt/) und jetzt komme ich endlich dazu, ein paar Details zu korrigieren, die mich schon lange stören.
 
 Die Gestaltung ist von [Lars Uhlmann](https://www.excorporalux.de/), der ja auch sonst schon viele Grafikarbeiten für den Löbtop e.V. und andere lokale Initiativen wie [Willkommen in Löbtau e.V.](https://www.willkommen-in-loebtau.de) gestaltet hat.
 
@@ -47,7 +47,7 @@ Noch nicht perfekt, aber Welten besser als vorher.
 
 ## Inhaltsverzeichnis auf Mobil-Geräten
 
-Der zweite Punkt, der wirklich unschön gelöst ist im TwentyTwentyThree-Theme, ist die "Mobile Navigation". Also das Menü auf kleinen Geräten, wie Smartphones. Dabei werden nämlich nicht die Unterpunte zusammengeklappt ("collapsed"), es gibt entsprechend keinen "Aufklapp-Pfeil" und die Schriftgröße war auch viel zu klein für Touch-Geräte.
+Der zweite Punkt, der wirklich unschön gelöst ist im TwentyTwentyThree-Theme, ist die "Mobile Navigation". Also das Menü auf kleinen Geräten, wie Smartphones. Dabei werden nämlich nicht die Unterpunkte zusammengeklappt ("collapsed"), es gibt entsprechend keinen "Aufklapp-Pfeil" und die Schriftgröße war auch viel zu klein für Touch-Geräte.
 
 Das Problem ist bekannt und im [GitHub-Issue](https://github.com/WordPress/gutenberg/issues/38599) gibt es auch einen Lösungsvorschlag, den ich dann adaptiert habe.
 
