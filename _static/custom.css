@@ -131,4 +131,9 @@ div.timeline div.entry.right::after {
 
 .footer-items__start, .footer-items__end {
     flex-direction: row;
-  }
+}
+
+
+img.rotate-90 > img {
+    transform: rotate(90deg)
+}
