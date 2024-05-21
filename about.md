@@ -60,7 +60,7 @@ Fahrpläne wälzen habe ich noch gelernt. Eins der letzten Kursbücher von 1992 
 ```{grid-item}
 :columns: 9
 
-Schon 2004 bin ich Mitglied von BÜNDNIS 90 / DIE GRÜNEN geworden. Für mich nach wie vor die passenste Partei. Seit 2009 bin ich Mitglied im Ortbeirat bzw. Stadtbezirksbeirat (seit 2019) Cotta.
+Schon 2004 bin ich Mitglied von BÜNDNIS 90 / DIE GRÜNEN geworden. Für mich nach wie vor die passenste Partei. Seit 2009 bin ich Mitglied im Ortsbeirat bzw. Stadtbezirksbeirat (seit 2019) Cotta.
 
 Ich habe tatkräftig mitgeholfen, das Netzwerk und den späteren Verein <a href="https://www.willkommen-in-loebtau.de">Willkommen in Löbtau e.V.</a> zu gründen. Ebenso bin ich Gründungsmitglied des Vereins <a href="https://loebtop.de">Löbtop e.V.</a> und seit 2022 Co-Sprecher der <a href="https://loebtau.org">Löbtauer Runde</a>.
 ```
