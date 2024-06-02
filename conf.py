@@ -39,7 +39,7 @@ extensions = [
     "ablog",
     "sphinx_design",
     "sphinxext.opengraph",
-    "sphinxext.rediraffe",
+    #"sphinxext.rediraffe",
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -76,6 +76,7 @@ html_theme_options = {
   "navbar_end": ["navbar-icon-links.html"],
   "show_toc_level": 2,
   "show_nav_level": 2,
+  "navigation_with_keys": False,
   "footer_start": ["copyright", "sphinx-version"],
   "footer_end": ["impressum", "datenschutz"]
 }
@@ -144,8 +145,8 @@ html_baseurl = 'https://www.bigga.de/'
 sitemap_locales = [None]
 sitemap_url_scheme = "{link}"
 
-rediraffe_redirects = {
-}
+# rediraffe_redirects = {
+# }
 
 def setup(app):
     app.add_css_file("custom.css")

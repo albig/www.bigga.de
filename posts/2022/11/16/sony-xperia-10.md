@@ -22,7 +22,7 @@ Warum das?
 
 ### Unlocking Bootloader
 
-Anleitung von /e/OS: https://doc.e.foundation/devices/kirin/install
+Anleitung von /e/OS: [https://doc.e.foundation/devices/kirin/install]
 
 1. Unlock code von Sony-Seite abrufen http://developer.sonymobile.com/unlockbootloader/unlock-yourboot-loader/
 2. Bootloader entsperren
@@ -36,7 +36,7 @@ Finished. Total time: 1.339s
 Wenn der Befehl nicht sofort ausgeführt wird, sondern die Ausgabe "hängt" und das Telefon aus dem Fastboot Mode geht, dann sollte man einen anderen USB-Port nutzen.
 :::
 
-## Recovery Installieren
+### Recovery Installieren
 
 ```bash
 ~/projects/xperia/eos> fastboot flash boot recovery-e-1.5.1-s-20221103231515-dev-kirin.img
