@@ -4,7 +4,7 @@ Mein Name ist Alexander Bigga und ich wohne seit 1997 (meist) in Dresden.
 
 ## Über diese Webseite
 
-Die Domain bigga.de hatte ich schon während meines Praktikums am CERN 1999/2000 gekauft. Nach ein paar selbst gebastelten Webseiten war die Seite mehreren Jahren offline. Die Domain wurde trotzdem intensiv für unsere Mail-Konten genutzt.
+Die Domain `bigga.de` hatte ich schon während meines Praktikums am CERN 1999/2000 gekauft. Nach ein paar selbst gebastelten Webseiten war die Seite mehreren Jahren offline. Die Domain wurde trotzdem intensiv für unsere Mail-Konten genutzt.
 
 Seit 2022 ist [www.bigga.de](https://www.bigga.de) wieder da. Technisch kommt nun Sphinx zum Einsatz mit dem [pydata sphinx theme](https://pydata-sphinx-theme.readthedocs.io/) und [ablog](https://ablog.readthedocs.io/) für den Blog.
 
@@ -60,7 +60,7 @@ Fahrpläne wälzen habe ich noch gelernt. Eins der letzten Kursbücher von 1992 
 ```{grid-item}
 :columns: 9
 
-Schon 2004 bin ich Mitglied von BÜNDNIS 90 / DIE GRÜNEN geworden. Für mich nach wie vor die passenste Partei. Seit 2009 bin ich Mitglied im Ortsbeirat bzw. Stadtbezirksbeirat (seit 2019) Cotta.
+Schon 2003 bin ich Mitglied von BÜNDNIS 90 / DIE GRÜNEN geworden. Für mich nach wie vor die passenste Partei. Seit 2009 bin ich Mitglied im Ortsbeirat bzw. Stadtbezirksbeirat (seit 2019) Cotta.
 
 Ich habe tatkräftig mitgeholfen, das Netzwerk und den späteren Verein <a href="https://www.willkommen-in-loebtau.de">Willkommen in Löbtau e.V.</a> zu gründen. Ebenso bin ich Gründungsmitglied des Vereins <a href="https://loebtop.de">Löbtop e.V.</a> und seit 2022 Co-Sprecher der <a href="https://loebtau.org">Löbtauer Runde</a>.
 ```
@@ -167,4 +167,5 @@ Frisch von der Uni habe ich mit meinem Abschluss am Fraunhofer Institut in Dresd
 * 1997-2001 Diplom Ingenieur Elektrotechnik, Technische Universität Dresden
 * 1995-1997 Vordiplom Elektrotechnik, Universität Karlsruhe
 * 1994-1995 Zivildienst in der Jugendherberge Strehla a.d. Elbe
-* 1994 Abitur am Schillergymnasium Offenburg
+* 1992-1994 Schillergymnasium Offenburg, Abitur 1994
+* 1981-1992 Gymnasium Weilheim i.OB.

@@ -1,16 +1,18 @@
 # Alexander Bigga - über mich
 
-Ein paar Worte über mich - coming soon
+Mehr zu mir und meiner Webseite findet Ihr unter [Über mich](about.md).
 
 ## Aktuelle Blog-Artikel
 
-See the [blog archives](blog.md) for a more complete list.
+:::{hint}
+Alle Blog-Artikel findet Ihr unter [Blog](blog.md).
+:::
 
 ```{postlist} 5
 :date: "%d.%m.%Y"
 :format: "{date} - {title}"
 :excerpts:
-:expand: mehr ...
+:expand: Weiter...
 ```
 
 Lesen Sie mehr im Blog.
