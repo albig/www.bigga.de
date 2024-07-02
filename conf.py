@@ -70,8 +70,6 @@ html_theme_options = {
             "rel" : "noopener me",
         }
     },
-  ],
-  "icon_links": [
     {
         "name": "Linkedin",
         "url": "https://www.linkedin.com/in/albigdd",
