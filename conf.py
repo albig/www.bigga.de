@@ -71,6 +71,17 @@ html_theme_options = {
         }
     },
   ],
+  "icon_links": [
+    {
+        "name": "Linkedin",
+        "url": "https://www.linkedin.com/in/albigdd",
+        "icon": "fa-brands fa-linkedin",
+        "attributes": {
+            "target" : "_blank",
+            "rel" : "noopener me",
+        }
+    },
+  ],
   "use_edit_page_button": True,
   "search_bar_text": "Seite durchsuchen...",
   "navbar_end": ["navbar-icon-links.html"],
