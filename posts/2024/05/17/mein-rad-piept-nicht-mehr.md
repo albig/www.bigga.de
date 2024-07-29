@@ -19,7 +19,7 @@ Ich hatte auch das passende tex-lock dazu bestellt. Die Idee war, damit das Rad 
 Bezahlt hatte ich **282,90 €** für das I LOCK IT GPS mit Handsender, tex-lock Einsteckseil und Adapter für die Monatage.
 
 
-```{figure} ilockit-20240512_131442_conv.jpg
+```{thumbnail} ilockit-20240512_131442_conv.jpg
 :alt: Das I LOCK IT montiert an einem orangen ToutTerrain Fahrrad-Rahmen.
 :class: with-shadow
 :width: 550px
@@ -28,8 +28,8 @@ Bezahlt hatte ich **282,90 €** für das I LOCK IT GPS mit Handsender, tex-lock
 Das I LOCK IT montiert an einem orangen ToutTerrain Fahrrad-Rahmen.
 ```
 
-```{figure} ilockit-20240512_132116_conv-rotate.jpg
-:alt: Das I LOCK IT abmontiert nach zwei Jahren Benutztung. Die Montage-Platten sind verrostet. Ansonsten ist das Gerät äußerlich in gutem Zustand.
+```{thumbnail} ilockit-20240512_132116_conv-rotate.jpg
+:alt: Das I LOCK IT abmontiert nach zwei Jahren Benutzung. Die Montage-Platten sind verrostet. Ansonsten ist das Gerät äußerlich in gutem Zustand.
 :class: with-shadow
 :width: 350px
 :align: center
@@ -43,17 +43,17 @@ Für was braucht man ein I LOCK IT Rahmenschloss? Folgende Features werden bewor
 
 * lauter Alarm (Piepton) bei Bewegung im abgeschlossenen Zustand
 * GPS-Tracking im Diebstahlfall
-* automatisches Öffnen und Schließen beim Annhäherung bzw. Entfernung des verbundenen Handys
+* automatisches Öffnen und Schließen beim Annäherung bzw. Entfernung des verbundenen Handys
 
 ### Was bei mir nicht so gut funktionierte
 
 Vorneweg: ich habe nur ein Handy und ich weiß, dass Bluetooth eine komplizierte Thematik ist und auch sehr von den eingesetzten Geräten abhängt.
 
 * **Öffnen bei Annäherung**: Das klappte nicht zuverlässig. Bei meiner Konstellation, das Rad im Hausflur auch mal abzustellen um weitere Dinge aus dem Keller zu holen, war es sehr nervig. Das Schloss ging auf und zu, obwohl es in dem Fall nicht notwendig war. Hier hätte ich mir eine Einstellmöglichkeit gewünscht, dass das Schloss mal "Pause" macht, wenn man z.B. innerhalb von 5 Minuten mehrfach kommt und geht.
-Das autoatische Öffnen hatte ich dann relativ bald abgeschaltet und das Rad bewusst über den Bluetooth-Hand-Sender aufgeschlossen.
+Das automatische Öffnen hatte ich dann relativ bald abgeschaltet und das Rad bewusst über den Bluetooth-Hand-Sender aufgeschlossen.
 * **Schließen bei Entfernung**: Hier kann man die Sensibilität / Entfernung etwas in der App justieren. Trotzdem war die Entfernung oft gleich aber manchmal auch deutlich früher. Insgesamt hat das automatische Schließen nur in ca. 80% der Fälle geklappt. Ich kannte auch Orte an einer Hauptverkehrsstraße, da klappte es zu 100% nie. Keine Ahnung, woran das lag. Wenn man zu schnell um eine Hausecke geht und die Bluetooth-Verbindung plötzlich abbricht, darf das Schloss nicht einfach schließen (frag mich grad, was der Grund dafür war...?).
-* Bei Bewegung darf das Schloss auf keinen Fall schließen. Das hat auch zu 99% der Fälle geklappt. Ich kann mich an zwei Situationen erinnern, als das Schloss an der Ampel plötzlich schließ und ich beim Anfahren war. Warum auch immer. Das sind die Situationen, wo man denkt, das Teil fliegt morgen in den Müll.
-* Ich hätte mir ein manuelles Schließen, wie bei den Nextcloud-Leihrädern gewünscht. Stattdessen höhrt man, wie sich der Elektromotor abquält, den Bügel durch die Speichen zu schieben. Das würde viel Strom sparen, aber man könnte natürlich nicht dieses smarte Feature, automatisches Schließen umsetzen. Oder vielleicht doch. Wer weiß.
+* Bei Bewegung darf das Schloss auf keinen Fall schließen. Das hat auch zu 99% der Fälle geklappt. Ich kann mich an zwei Situationen erinnern, als das Schloss an der Ampel plötzlich schloss und ich beim Anfahren war. Warum auch immer. Das sind die Situationen, wo man denkt, das Teil fliegt morgen in den Müll.
+* Ich hätte mir ein manuelles Schließen, wie bei den Nextcloud-Leihrädern gewünscht. Stattdessen hört man, wie sich der Elektromotor abquält, den Bügel durch die Speichen zu schieben. Das würde viel Strom sparen, aber man könnte natürlich nicht dieses smarte Feature, automatisches Schließen umsetzen. Oder vielleicht doch. Wer weiß.
 * Der Handsender ist hilfreich, aber der Taster zum Öffnen und Schließen drückt auch oft, wenn man den Schlüsselbund in der Hosentasche hat. Vermutlich sind auch so die Situationen passiert, dass das Schloss an der Ampel einfach abschloss.
 
 
@@ -82,14 +82,14 @@ Zudem ist der Akku vermutlich auch bald am Ende. Anfangs hielt er gut 6 Monate. 
 
 Ich war also vorgewarnt, mir bald eine neue, weitere Sicherung zu überlegen. Da fiel mir wieder das tex-lock ein. Ein Textilschloss von einem Startup aus Leipzig, das ich schon mal in der Version 1 über die Kickstarter-kampagne 2017 gekauft. Damals hat sich schnell herausgestellt, dass es zwar gegen Bolzenschneider und Flex relativ lange stand hält. Aber nicht gegen eine einfache Eisensäge. Das hatte man dann relativ bald überarbeitet und nun liegt doch eine stabile Kette im Kern des Schlosses.
 
-Angenehm in der Handhabung ist es aber trotzdem noch - nur eben schwerer. Vor ein paar Monaten hatte ich ein ein tex-lock Orbit gekauft. Das hat 100cm Länge und ein klassiches Zylinderschloss.
+Angenehm in der Handhabung ist es aber trotzdem noch - nur eben schwerer. Vor ein paar Monaten hatte ich ein ein tex-lock Orbit gekauft. Das hat 100cm Länge und ein klassisches Zylinderschloss.
 
 Für mich hab ich jetzt aber das tex-lock eyelet gekauft. Ein Seil mit zwei Ösen und einem Bügelschloss, was sogar mit zwei unterschiedlich langen Bügeln geliefert wird.
 
 Gekostet hat mich der Spaß **148,39 €** (inkl. Versand und 5% Rabatt aus der Newsletter-Anmeldung).
 
 
-```{figure} texlock-20240516_085820_conv-rotate.jpg
+```{thumbnail} texlock-20240516_085820_conv-rotate.jpg
 :alt: Das tex-lock eyelet in grün/schwarz schließt das organgene Rad an einem Fahrrad-Bügel an. Der kleine Bügel verschließt die beidenen Enden am Gepäckträger des Rads. Der Gepäckträger ist beim Tout Terrain fest mit dem Rahmen verbunden und ebenfalls in orange.
 :class: with-shadow
 :width: 350px

@@ -48,7 +48,7 @@ templates_path = ['_templates']
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
-exclude_patterns = ['_build', 'node_modules', 'Thumbs.db', '.DS_Store', "*import_posts*", "**/pandoc_ipynb/inputs/*", ".nox/*", "README.md"]
+exclude_patterns = ['_build', 'node_modules', 'Thumbs.db', '.DS_Store', "*import_posts*", "**/pandoc_ipynb/inputs/*", ".nox/*", "README.md", "404.md"]
 
 
 # -- Options for HTML output -------------------------------------------------
@@ -148,7 +148,7 @@ ogp_image = "https://www.bigga.de/_static/bigga-alexander.jpg"
 jupyter_execute_notebooks = "off"
 
 
-extensions += ["sphinx_sitemap"]
+extensions += ["sphinx_sitemap", "sphinxcontrib.images"]
 
 html_baseurl = 'https://www.bigga.de/'
 sitemap_locales = [None]

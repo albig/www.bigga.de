@@ -8,4 +8,5 @@ sphinxext-opengraph
 sphinxext-rediraffe
 sphinx-autobuild
 sphinx-sitemap
+sphinxcontrib-images
 matplotlib
