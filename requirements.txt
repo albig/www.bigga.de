@@ -1,3 +1,4 @@
+setuptools
 ablog
 docutils==0.16
 MyST-Parser
