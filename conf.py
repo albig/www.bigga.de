@@ -107,7 +107,7 @@ html_sidebars = {
     "about": ["hello.html", "sidebar-nav-bs.html"],
     "posts/**": ["search-field.html", "postcard.html", "recentposts.html", "archives.html"],
     "blog": ["tagcloud.html", "archives.html"],
-    "blog/**": ["postcard.html", "recentposts.html", "archives.html"],
+    "blog/**": ["postcard.html", "recentposts.html", "archives.html"]
 }
 
 html_context = {
