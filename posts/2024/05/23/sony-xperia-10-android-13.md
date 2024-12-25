@@ -14,11 +14,11 @@ Also musste ich mal wieder das Handy flashen. Hatte darauf jetzt schon ein paar 
 
 ## Vorgehen
 
-Anleitung von /e/OS: [https://doc.e.foundation/devices/kirin/install]
+Anleitung von /e/OS: [https://doc.e.foundation/devices/kirin/install](https://doc.e.foundation/devices/kirin/install)
 
 ### Download des Images
 
-Download des aktuellen Images für Android T (13) von [https://images.ecloud.global/dev/kirin/]. In meinem Fall war das [e-2.0-t-20240508399779-dev-kirin.zip](https://images.ecloud.global/dev/kirin/e-2.0-t-20240508399779-dev-kirin.zip).
+Download des aktuellen Images für Android T (13) von [https://images.ecloud.global/dev/kirin/](https://images.ecloud.global/dev/kirin/). In meinem Fall war das [e-2.0-t-20240508399779-dev-kirin.zip](https://images.ecloud.global/dev/kirin/e-2.0-t-20240508399779-dev-kirin.zip).
 
 ### Recovery Mode aktivieren
 
