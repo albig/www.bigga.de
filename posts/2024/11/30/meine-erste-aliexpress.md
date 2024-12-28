@@ -9,11 +9,11 @@ category: basteln
 
 ## Luftdaten-Sensor im Selbstbau
 
-Am 10.11.2024 hab ich mir vorgenommen, mal einen Feinstaubsensor zu bauen und an das Sensor-Netz von [https://sensor.community/] anzubinden. Man muss dazu gar nicht viel basteln. Die [Einkaufslist](https://sensor.community/de/sensors/airrohr/) ist schon fertig und das [Programm(https://github.com/opendata-stuttgart/airrohr-firmware-flasher/)] auch.
+Am 10.11.2024 hab ich mir vorgenommen, mal einen Feinstaubsensor zu bauen und an das Sensor-Netz von [https://sensor.community/] anzubinden. Man muss dazu gar nicht viel basteln. Die [Einkaufsliste](https://sensor.community/de/sensors/airrohr/) ist schon fertig und das [Programm(https://github.com/opendata-stuttgart/airrohr-firmware-flasher/)] auch.
 
 ## Woher die Bauteile bekommen?
 
-In der [Einkaufslist](https://sensor.community/de/sensors/airrohr/) gehen gleich Links zu Einkaufsquellen. Man bekommt alles über verschiedene Quellen. Entweder direkt verlinkt oder mit ein bisschen Suchen. AliExpress mit Direktlieferung aus China ist dabei immer dabei.
+In der [Einkaufsliste](https://sensor.community/de/sensors/airrohr/) gehen gleich Links zu Einkaufsquellen. Man bekommt alles über verschiedene Quellen. Entweder direkt verlinkt oder mit ein bisschen Suchen. AliExpress mit Direktlieferung aus China ist dabei immer dabei.
 
 Die teuerste Komponente bei dem Projekt ist der Feinstaubsensor. Bei AliExpress lachte der mich mit 13,79 € an. Das aber nur bei Erstbestellungen. Sonst sind es auch ~25 €.
 
