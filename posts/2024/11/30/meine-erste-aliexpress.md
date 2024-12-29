@@ -1,5 +1,5 @@
 ---
-tags: aliepress, basteln, elektronik
+tags: aliepxress, basteln, elektronik
 date: 2024-11-30
 language: de
 category: basteln
@@ -9,7 +9,7 @@ category: basteln
 
 ## Luftdaten-Sensor im Selbstbau
 
-Am 10.11.2024 hab ich mir vorgenommen, mal einen Feinstaubsensor zu bauen und an das Sensor-Netz von [https://sensor.community/] anzubinden. Man muss dazu gar nicht viel basteln. Die [Einkaufsliste](https://sensor.community/de/sensors/airrohr/) ist schon fertig und das [Programm(https://github.com/opendata-stuttgart/airrohr-firmware-flasher/)] auch.
+Am 10.11.2024 hab ich mir vorgenommen, mal einen Feinstaubsensor zu bauen und an das Sensor-Netz von [https://sensor.community/](sensor.community) anzubinden. Man muss dazu gar nicht viel basteln. Die [Einkaufsliste](https://sensor.community/de/sensors/airrohr/) ist schon fertig und das [Programm(https://github.com/opendata-stuttgart/airrohr-firmware-flasher/)] auch.
 
 ## Woher die Bauteile bekommen?
 
