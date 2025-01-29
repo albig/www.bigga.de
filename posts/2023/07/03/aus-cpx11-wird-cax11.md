@@ -7,7 +7,7 @@ category: technik
 
 # Server-Umzug nach 5 Jahren - aus CPX11 wird CAX11
 
-So 5 Tage vor dem Urlaub ist sicher ein guter Zeitpunkt, den privaten Server zu aktualisieren. Und zwar nicht so ein bisschen, sondern von Debian 11 auf 12 mit PHP 7.4 auf 8.2 und dann auch noch die Prozessor-Architekur zu wechseln von Intel x64 auf AMD arm64. Natürlich alles [virtuell in der Hetzner Cloud](https://www.hetzner.com/de/press-release/arm64-cloud). Für meinen Krimskrams brauch ich ja keinen eigenen Server.
+So 5 Tage vor dem Urlaub ist sicher ein guter Zeitpunkt, den privaten Server zu aktualisieren. Und zwar nicht so ein bisschen, sondern von Debian 11 auf 12 mit PHP 7.4 auf 8.2 und dann auch noch die Prozessor-Architekur zu wechseln von Intel x64 auf arm64. Natürlich alles [virtuell in der Hetzner Cloud](https://www.hetzner.com/de/press-release/arm64-cloud). Für meinen Krimskrams brauch ich ja keinen eigenen Server.
 
 Mit der arm64-Architektur bekommt man mehr Leistung zum gleichen oder geringeren Preis. Und die Software? Da [Debian einen vollständigen arm64-Port](https://wiki.debian.org/Arm64Port) hat, kann man alles aus den Debian-Repositories installieren und nutzen. Was anderes brauche ich ja nicht.
 
