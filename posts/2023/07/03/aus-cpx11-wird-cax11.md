@@ -36,16 +36,16 @@ Konkret läuft auf den Servern:
 * [dadu.eu](https://dadu.eu) - die Familien-Cloud [[Nextcloud](https://nextcloud.com/de/)]
 * [office.dadu.eu](https://office.dadu.eu) - Collabora Office für die Nextcloud [[Collabora Office Online](https://www.collaboraoffice.com/collabora-online/)]
 * [doris-bigga.de](https://doris-bigga.de) - Doris Bigga - Aromatherapie [[TYPO3](https://typo3.org/)]
-* [dresden-west.de](https://dresden-west.de) - Dresdner Grüner Westen - Blog [[Wordpress](https://wordpress.org/])
-* [gerlinde.bigga.de](https://gerlinde.bigga.de) - Gerlinde Bigga - Blog [[Wordpress](https://wordpress.org/]
-* [schwanen-nussbach.de](https://schwanen-nussbach.de) - Gasthaus Schwanen Nussbach [TYPO3](https://typo3.org/)]
+* [dresden-west.de](https://dresden-west.de) - Dresdner Grüner Westen - Blog [[Wordpress](https://wordpress.org/])]
+* [gerlinde.bigga.de](https://gerlinde.bigga.de) - Gerlinde Bigga - Blog [[Wordpress](https://wordpress.org/)]
+* [schwanen-nussbach.de](https://schwanen-nussbach.de) - Gasthaus Schwanen Nussbach [[TYPO3](https://typo3.org/)]
 * [time.abigga.de](https://time.abigga.de) - Projekt- und Arbeitszeiterfassung [Kimai]
-* [liblo.de](https://liblo.de) - Liblo - Reiseblog [[Wordpress](https://wordpress.org/]
+* [liblo.de](https://liblo.de) - Liblo - Reiseblog [[Wordpress](https://wordpress.org/)]
 * [matomo.abigga.de](https://matomo.abigga.de) - Besuchertracking [Matomo]
 * [monitor.abigga.de](https://monitor.abigga.de) - einfaches Server-Monitoring [[PHP Server Montioring](https://www.phpservermonitor.org/)]
 * [munin.abigga.de](https://munin.abigga.de) - einfaches Server-Monitoring [[Munin](https://munin-monitoring.org/)]
-* [osm.bigga.de](https://osm.bigga.de) - OSM Demo Seite [TYPO3](https://typo3.org/)]
-* [weltcafe-dresden.de](https://weltcafe-dresden.de) - alte Weltcafé-Dresden Seite (z.Zt. kaputt) [TYPO3](https://typo3.org/)]
+* [osm.bigga.de](https://osm.bigga.de) - OSM Demo Seite [[TYPO3](https://typo3.org/)]
+* [weltcafe-dresden.de](https://weltcafe-dresden.de) - alte Weltcafé-Dresden Seite (z.Zt. kaputt) [[TYPO3](https://typo3.org/)]
 * und noch ein paar Kleinigkeiten.
 
 ## Auf die nächsten 5 Jahre!
