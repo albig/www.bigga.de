@@ -1,9 +1,9 @@
 setuptools
 ablog
-docutils==0.16
+docutils
 MyST-Parser
 pydata-sphinx-theme
-sphinx
+sphinx<8.0
 sphinx-design
 sphinxext-opengraph
 sphinxext-rediraffe
