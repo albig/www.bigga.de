@@ -137,3 +137,10 @@ div.timeline div.entry.right::after {
 img.rotate-90 > img {
     transform: rotate(90deg)
 }
+
+
+.clear {
+    clear: both;
+    display: inline-flex;
+    align-items: center;
+}

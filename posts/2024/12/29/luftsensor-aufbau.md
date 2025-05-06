@@ -31,7 +31,7 @@ Wenn der Sensor keinen Zugriff auf's WLAN hat, macht er selbst eine WLAN-Access-
 
 ## Im Sensor-Netz anmelden
 
-Auch die Anmeldung des Sensors im [https://sensor.community/](Sensor-Netz) ist sehr einfach. Man registriert sich mit der E-Mail-Adresse und fügt den Sensor mit seiner Sensor-ID hinzu. Die Sensor-ID selbst bekommt man aus dem Namen des WLAN-Netz, was der Sensor für die Konfiguration aufgemacht hatte. Keine Ahnung, woher er die ID nimmt.
+Auch die Anmeldung des Sensors im [Sensor-Netz](https://sensor.community/) ist sehr einfach. Man registriert sich mit der E-Mail-Adresse und fügt den Sensor mit seiner Sensor-ID hinzu. Die Sensor-ID selbst bekommt man aus dem Namen des WLAN-Netz, was der Sensor für die Konfiguration aufgemacht hatte. Keine Ahnung, woher er die ID nimmt.
 
 ```{thumbnail} karte-senor-community-2024-12-29_25.png
 :alt: Screenshot von der Seite sensor.community. Karte von Dresden mit Waben in unterschiedlicher Farbe von grün bis rot.
@@ -63,4 +63,4 @@ Der Aufbau war wirklich easy und kann ich auch für Einsteiger empfehlen. Klar, 
 
 Bin gespannt, wie sich die Werte entwickeln. Im dritten Stock sind die Feinstaubwerte ja vielleicht grundsätzlich besser. Aber auch hier wird die schlechte Luft zu Silvester vorbeikommen. Auf die Werte bin ich besonders gespannt. Drum wollte ich das unbedingt noch vor dem 31.12. erledigt haben
 
-Hier geht's zur [Karte it meinem Sensor im Sensor-Netz](https://maps.sensor.community/#14/51.0449/13.6814).
+Hier geht's zur [Karte mit meinem Sensor im Sensor-Netz](https://maps.sensor.community/#14/51.0449/13.6814).

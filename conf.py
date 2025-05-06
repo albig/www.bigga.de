@@ -105,9 +105,9 @@ html_extra_path = ['_static/robots.txt']
 html_sidebars = {
     "index": ["hello.html", "sidebar-nav-bs.html"],
     "about": ["hello.html", "sidebar-nav-bs.html"],
-    "posts/**": ["search-field.html", "postcard.html", "recentposts.html", "archives.html"],
-    "blog": ["tagcloud.html", "archives.html"],
-    "blog/**": ["postcard.html", "recentposts.html", "archives.html"]
+    "posts/**": ["search-field.html", "ablog/postcard.html", "ablog/recentposts.html", "ablog/archives.html"],
+    "blog": ["ablog/tagcloud.html", "ablog/archives.html"],
+    "blog/**": ["ablog/postcard.html", "ablog/recentposts.html", "ablog/archives.html"]
 }
 
 html_context = {
