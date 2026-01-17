@@ -21,11 +21,20 @@ Download des aktuellen Images für Android U (14) von [https://images.ecloud.glo
 
 1. USB-Debugmode prüfen und ggf. einschalten
 2. Handy ausschalten und nicht an USB anschließen
-3. Power-Down und Power lange drücken
+3. Volume-Down und Power lange drücken und loslassen, sobald Gerät startet
 4. im Recovery-Menü wählen: Apply Update -> Apply from ADB
+5. USB-Verbinden
+6. Verbindung testen
+
+```bash
+~/projects/eos> sudo adb devices -l
+List of devices attached
+CQ3001M3VP             sideload usb:1-3.1.2 product:lineage_kirin model:Xperia_10 device:kirin transport_id:1
+```
+
 5. Image mit `adb` flashen:
 
-
+sudo adb devices -l
 ```bash
 ~/projects/eos> sudo adb sideload e-2.6.3-u-20241218455571-community-kirin.zip
 Total xfer: 1.00x
